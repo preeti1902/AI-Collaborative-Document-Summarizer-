@@ -1,5 +1,5 @@
-# 🤖 TeamSync AI – Real-Time Collaborative Workspace with AI
-TeamSync AI is a modern MERN-based real-time collaboration platform featuring AI-powered intent detection and automated summarization. Teams can co-edit documents, chat, and track tasks—faster and smarter—with robust role-based permissions.
+# 🤖 AI Collaborative Document Summarizer 
+AI Collaborative Document Summarizer is a modern MERN-based real-time collaboration platform featuring AI-powered automated summarization. Teams can co-edit documents and track tasks—faster and smarter—with robust role-based permissions.
 
 ## 🚀 Features
 - Secure JWT Authentication (Login, Signup, Logout; HTTP-only cookies)
@@ -114,3 +114,4 @@ TeamSyncAI/
 ---
 
 **Enjoy working with TeamSync AI!**
+
